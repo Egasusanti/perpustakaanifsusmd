@@ -19,13 +19,13 @@ https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-co
 
 <b>Petugas Perpus : </b>
 <br/>
-Username : anang
+Username : EGA SUSANTI
 <br/>
 Password : 123
 
 <b>Anggota Perpus :</b>
 <br/>
-Username : fauzan
+Username : WULAN YULIANTI
 <br/>
 Password : 123
 
